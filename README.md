@@ -1,10 +1,16 @@
 ![](https://img.shields.io/badge/build-passing-green.svg)
-![](https://img.shields.io/badge/version-1.1-blue.svg)
+![](https://img.shields.io/badge/version-1.2-blue.svg)
 ![](https://img.shields.io/badge/picard-2.9.0-blue.svg)
 ![](https://img.shields.io/badge/java-1.8-red.svg)
 
-# BRB-seq Tools 1.1
+# BRB-seq Tools 1.2
 A suite of tools for the pre-processing of BRB-seq data (bulk RNA-seq)
+
+## Publication
+[Alpern, D., Gardeux, V. et al. BRB-seq: ultra-affordable high-throughput transcriptomics enabled by bulk RNA barcoding and sequencing. *Genome Biol* **20**, 71 (2019)](https://doi.org/10.1186/s13059-019-1671-x)
+
+## Companies using BRB-seq protocol
+[Alithea Genomics](https://www.alitheagenomics.com/)
 
 ## Download software
 BRB-seq command-line tools are provided as a [single executable jar file](../master/releases/BRBseqTools.1.1.jar?raw=true).
